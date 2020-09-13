@@ -56,5 +56,4 @@ The function exeuteRound further calls the "compareDecks" function to compare th
 
 Further object constructors are used to aid the logical function and present a clean code. "Prototype" property is added to allow to add new properties to object constructors. These constructors perform the steps 1-3 as mentioned in the problem.
 
-Easy way using python: I have solved the same problem using python in a much simpler way.
 
